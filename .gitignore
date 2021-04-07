@@ -6,3 +6,5 @@ tpi.config
 nfd-master.yaml
 nfd-worker-daemonset.yaml
 kubeconfig*
+~*
+.DS_Store
